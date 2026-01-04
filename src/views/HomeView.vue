@@ -20,7 +20,7 @@
     <div class="grid-container">
       
       <!-- XML Card -->
-      <a href="https://qcmxml-production.up.railway.app/" target="_blank" class="card xml-card">
+      <a href="https://xml.up.railway.app/" target="_blank" class="card xml-card">
         <div class="card-content">
           <div class="icon-wrapper">
             <span class="icon">&lt;/&gt;</span>
@@ -32,7 +32,7 @@
       </a>
 
       <!-- DASC Card -->
-      <a href="https://qcmdasc-production.up.railway.app/" target="_blank" class="card dasc-card">
+      <a href="https://dasc.up.railway.app/" target="_blank" class="card dasc-card">
         <div class="card-content">
           <div class="icon-wrapper">
             <span class="icon">☁️</span>
@@ -44,7 +44,7 @@
       </a>
 
       <!-- Kotlin Card -->
-      <a href="https://qcmkotlin-production.up.railway.app/" target="_blank" class="card kotlin-card">
+      <a href="https://kotlin.up.railway.app/" target="_blank" class="card kotlin-card">
         <div class="card-content">
           <div class="icon-wrapper">
             <span class="icon">K</span>
@@ -56,7 +56,7 @@
       </a>
 
       <!-- C# Card -->
-      <a href="https://qcm-production-2027.up.railway.app/" target="_blank" class="card csharp-card">
+      <a href="https://csharp.up.railway.app/" target="_blank" class="card csharp-card">
         <div class="card-content">
           <div class="icon-wrapper">
             <span class="icon">C#</span>
